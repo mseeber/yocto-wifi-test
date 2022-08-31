@@ -1,0 +1,12 @@
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "meta-qt5"]
+	path = meta-qt5
+	url = https://code.qt.io/yocto/meta-qt5.git
+[submodule "poky"]
+	path = poky
+	url = https://git.yoctoproject.org/git/poky
+[submodule "meta-wifi-test"]
+	path = meta-wifi-test
+	url = git@github.com:mseeber/meta-wifi-test.git
